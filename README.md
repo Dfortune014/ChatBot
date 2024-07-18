@@ -32,6 +32,7 @@ cd backend
 npm install
 cd ../frontend
 npm install
-- ### Setup Instructions
+
+### Setup Instructions
 Backend
 Navigate to the backend directory
