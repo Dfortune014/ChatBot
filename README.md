@@ -52,8 +52,8 @@ This project is a ChatBot application built with React.js for the frontend and N
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Dfortune014/MERN-AI-ChatBot-starting-project.git
-   cd your-repo-name
+   git clone https://github.com/Dfortune014/ChatBot.git
+   cd Chatbot
    ```
 2. Install dependencies for both frontend and backend:
    ```bash
